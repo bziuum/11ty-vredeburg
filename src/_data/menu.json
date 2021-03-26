@@ -1,15 +1,11 @@
 [
     {
-        "label": "About",
+        "label": "O Projekcie",
         "url": "/about"
     },
     {
-        "label": "Tag List",
-        "url": "/tags"
-    },
-    {
-        "label": "GitHub",
-        "url": "https://github.com/dafiulh/vredeburg",
+        "label": "Zapisz się!",
+        "url": "https://www.getrevue.co/profile/Olsztyn",
         "newTab": true
     }
 ]

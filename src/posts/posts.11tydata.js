@@ -1,6 +1,6 @@
 module.exports = {
   layout: 'post',
-  title: 'Untitled',
+  title: 'Posts',
   eleventyComputed: {
     permalink: (data) => `${data.page.fileSlug}/index.html`,
     thumb: (data) => {

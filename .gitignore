@@ -105,3 +105,6 @@ dist
 
 # Local Netlify folder
 .netlify
+
+# Work in progress
+src/posts/_in-progress/
