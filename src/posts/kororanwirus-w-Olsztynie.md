@@ -17,12 +17,12 @@ tags:
 <div>
 Na Warmii i Mazurach:
 
-- 202 844 osób zostało zaszczepionych - to 12,26% mieszkańców
-- 67 120 osób otrzymało 2 dawkę - 4,72% mieszkańców 
+- 228 489 osób - 16.06% mieszkańców (+ 26 tys. od zeszłego tygodnia)
+- w tym 71,300 osób - 5.01% mieszkańców otrzymało 2 dawki ( + 4 tys. od zeszłego tygodnia)
 
 W Olsztynie*:
--  43 683 osób zostało zaszczepionych
--  14 363 osób otrzymało 2 dawkę
+-  49 831 osób (+ 6 tys. od zeszłego tygodnia) 
+-  w tym 15 582 osób otrzymało 2 dawki (+ 1 tys. od zeszłego tygodnia) 
 </div>
 
 <div class="mt-8">
@@ -35,7 +35,7 @@ W Olsztynie*:
 - Wykres: Paweł Harajda dla <a href="olsztynwskrocie.pl">Olsztyn. W skrócie.</a><br/>
 - Dane dot. chorych: <a href="https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2">gov.pl</a></br>
 - Dane dot. szczepień: <a href="https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19">gov.pl</a></br>
-- Ikona wirusa: <a href="https://pixabay.com/users/muhnaufals-6229071/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4986015">Muhammad Naufal Subhiansyah</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4986015">Pixabay</a></p>
+<!-- - Ikona wirusa: <a href="https://pixabay.com/users/muhnaufals-6229071/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4986015">Muhammad Naufal Subhiansyah</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4986015">Pixabay</a></p> -->
 </div>
 
 
