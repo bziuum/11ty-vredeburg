@@ -3,28 +3,73 @@ layout: default
 title: About Me
 ---
 
-<div class="flex flex-col items-center text-lg">
-    {% if author.avatar %}
-    <a href="{{ author.homepage | url }}" target="_blank" rel="noopener">
-        <img class="w-32 h-32 md:w-40 md:h-40 rounded-full" src="{{ author.avatar | url }}" width="128" height="128" alt="Author avatar">
-    </a>
-    {% endif %}
-    <div class="text-center mt-8">
-        <h1 class="text-2xl font-medium text-gray-800 leading-relaxed mt-0 mb-1">
-            <a href="{{ author.homepage | url }}" target="_blank" rel="noopener">{{ author.name }}</a>
-        </h1>
+<div class="text-left min-w-xl flex flex-row flex-wrap items-center text-lg justify-center">
+    <div class="leading-10">
+    <p class="font-bold">Olsztyn. W skrócie.</p>
+    <p>Cotygodniowa prasówka z najważniejszymi miejskimi wiadomościami.</p>
+    <p>Jeden mail. Raz w tygodniu. Podstawowe informacje. Krótko opisane.</p>
+    <ul class="list-disc list-inside">
+        <li>Bez reklam, spamu i lania wody</li>
+        <li>Bez zmuszania do klikania w linki</li>
+        <li>Bez napadów, kradzieży i wypadków</li>
+        <li>Bez informacji z regionu, kraju i świata</li>
+    </ul>
+    <p>Poprzednie edycje można przeczytać klikając <a class="underline" href="https://www.getrevue.co/profile/Olsztyn#archive" target="_blank">tutaj</a>.</p>
+    </div>
+</div>
+
+<div id="revue-embed" class="flex flex-row flex-wrap items-center text-lg justify-center mt-10 mb-10">
+    <form action="https://www.getrevue.co/profile/Olsztyn/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+    <div class="items-center">
+        <label for="member_email">Twój adres e-mail: </label>
+        <input class="border-solid border-2 border-gray-200 rounded" placeholder="" type="email" name="member[email]" id="member_email">
+        <input class="rounded p-2 text-sm" type="submit" value="Zapisz się!" name="member[subscribe]" id="member_submit">
+    </div>
+    <div class="text-xs text-center">
+        <p>Zapisując się na mój newsletter, zgadzasz się z
+            <a class="underline" target="_blank" href="https://www.getrevue.co/terms?locale=pl">Warunkami</a> i 
+            <a class="underline" target="_blank" href="https://www.getrevue.co/privacy?locale=pl">Polityką Prywatności</a> Revue</p>
+        <p>(Revue to system do wysyłania maili z którego korzystam).</p>
+    </div>
+</form>
+</div>
+<div class="mt-2 text-xs text-center">
+    Formularz powyżej nie wyświetlił się lub zwraca błąd? Spróbuje proszę zapisać się <a href="https://www.getrevue.co/profile/Olsztyn" target="_blank" class="underline">tutaj</a>.
+</div>
+
+  
+
+<div class="flex flex-row flex-wrap items-center text-lg justify-center p-10">
+    <div class="text-center max-w-1/4">
+       {% if author.avatar %}
+            <img class="w-32 h-32 md:w-40 md:h-40 rounded-full" src="{{ author.avatar | url }}" width="128" height="128" alt="Author avatar">
+        {% endif %}
+    </div>
+
+    <div class="text-left max-w-1/4 p-10">
+        <h4>Przygotowuje:</h4>
+        <h3 class="text-2xl font-medium text-gray-800 leading-relaxed mt-1 mb-1">
+            {{ author.name }}
+        </h3>
+
         {% if author.email %}
         <div class="text-gray-600">
             <a href="mailto:{{ author.email }}">{{ author.email }}</a>
         </div>
+
+            {% if author.phone %}
+            <div class="text-gray-600">
+                <a href="tel:{{ author.phone }}">{{ author.phone }}</a>
+            </div>
+            {% endif %}
         {% endif %}
-        {% if author.phone %}
-        <div class="text-gray-600">
-            <a href="tel:{{ author.phone }}">{{ author.phone }}</a>
-        </div>
-        {% endif %}
-        {% if author.bio %}
-        <p class="mt-3 text-gray-700">{{ author.bio }}</p>
-        {% endif %}
+
+    </div>
+</div>
+
+<p class="flex flex-row flex-wrap items-center text-lg justify-center font-base">Strona na Facebooku:</p>
+<div class="flex flex-row flex-wrap items-center justify-center">
+    <div>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Folsztynwskrocie&tabs&width=340&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
     </div>
 </div>
