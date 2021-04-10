@@ -14,7 +14,7 @@ tags:
 <div class="text-xs text-center">
 <table>
   <thead>
-    <tr class="bg-gray-300 pl-2">
+    <tr>
       <th><span class="pl-2">Nieruchomość</span></th>
       <th>Cena sprzedaży</th>
       <th>Powierzchnia</th>
@@ -24,6 +24,14 @@ tags:
     </tr>
   </thead>
   <tbody>
+  <tr class="bg-gray-300 pl-2">
+      <td><span class="pl-2">ul. Małłków (boczna od ul. Currie-Skłodowskiej)</span></td>
+      <td>0,45 mln PLN</td>
+      <td>739 m^2</td>
+      <td>615 PLN</td>
+      <td>mieszkaniowa</td>
+      <td>0,45 mln PLN</td>
+    </tr>
     <tr>
       <td><span class="pl-2">ul. Sarnowskiego / ul. Currie-Skłodowskiej</span></td>
       <td>2,75 mln PLN</td>
@@ -66,8 +74,8 @@ tags:
     </tr>
     <tr class="bg-gray-200 font-bold">
       <td><span class="pl-2">Łącznie:</span></td>
-      <td>25,56 mln PLN</td>
-      <td>31 414 m^2</td>
+      <td>26,01 mln PLN</td>
+      <td>32 153 m^2</td>
       <td></td>
       <td></td>
       <td></td>
@@ -78,7 +86,7 @@ tags:
 
 <div class="mt-20">
 <p class="text-xs">Credits&Info:<br/>  
-- Ostatnia aktualizacja: 26.03.2021 r.<br/>
+- Ostatnia aktualizacja:10.04.2021 r.<br/>
 - Przygotowania: Paweł Harajda dla <a href="olsztynwskrocie.pl">Olsztyn. W skrócie.</a><br/>
 - Dane: <a href="umolsztyn.bip.gov.pl/" target="_blank">Biuletyn Informacji Publicznej Miasta Olsztyn</a>
 </p>

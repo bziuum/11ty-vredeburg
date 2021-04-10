@@ -13,16 +13,16 @@ tags:
 <iframe width="620" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOn8vZ7-_DAWoSwFB5sceZbZJm47jT6oQcjJU6mZRtP-5m99joKrtcIGUteXsQ-aa7HHe-28q374lO/pubchart?oid=150859349&amp;format=interactive"></iframe>
 
 
-### Szczepienia na dzień 26 marca 2021 r.
+### Szczepienia na dzień 9 kwietnia 2021 r.
 <div>
 Na Warmii i Mazurach:
 
-- 228 489 osób - 16.06% mieszkańców (+ 26 tys. od zeszłego tygodnia)
-- w tym 71,300 osób - 5.01% mieszkańców otrzymało 2 dawki ( + 4 tys. od zeszłego tygodnia)
+- 263 410 osób - 18.51% mieszkańców (+25,6 tys. od zeszłego tygodnia)
+- w tym 73 974 osób - 5.20% mieszkańców otrzymało 2 dawki (+4,2 tys. od zeszłego tygodnia)
 
 W Olsztynie*:
--  49 831 osób (+ 6 tys. od zeszłego tygodnia) 
--  w tym 15 582 osób otrzymało 2 dawki (+ 1 tys. od zeszłego tygodnia) 
+-  54 842 osób (+6,1 tys. od zeszłego tygodnia) 
+-  w tym 16 089 osób otrzymało 2 dawki (+1,2 tys. od zeszłego tygodnia) 
 </div>
 
 <div class="mt-8">
