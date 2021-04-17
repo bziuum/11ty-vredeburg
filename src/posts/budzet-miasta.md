@@ -15,6 +15,4 @@ To 312 stron obszernego podsumowania wydatków i przychodów w minionym roku. Po
 
 Poniżej 10 największych źródeł przychodów miasta w 2020 roku. Dochody wyniosły łącznie 1.357.526.085,19 zł (~1,36 mld)
 
-
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRQJi-l1zg1li6VQyqssq5g8pupG51H7OFmg6DI__mMhrHzvSDLCobeCRLdxz-3VeeqZPnW6e2Hab9R/pubchart?oid=1852795932&format=interactive
-
+<iframe width="693" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRQJi-l1zg1li6VQyqssq5g8pupG51H7OFmg6DI__mMhrHzvSDLCobeCRLdxz-3VeeqZPnW6e2Hab9R/pubchart?oid=1852795932&amp;format=interactive"></iframe>
