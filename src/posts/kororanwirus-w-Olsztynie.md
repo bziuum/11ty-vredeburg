@@ -13,17 +13,19 @@ tags:
 <iframe width="620" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOn8vZ7-_DAWoSwFB5sceZbZJm47jT6oQcjJU6mZRtP-5m99joKrtcIGUteXsQ-aa7HHe-28q374lO/pubchart?oid=150859349&amp;format=interactive"></iframe>
 
 
-### Szczepienia na dzień 9 kwietnia 2021 r.
+### Szczepienia na dzień 16 kwietnia 2021 r.
 <div>
-Na Warmii i Mazurach:
+Na Warmii i Mazurach zaszczepiono
+- 305 228 osób - 20.45% mieszkańców (+41,2 tys. od zeszłego tygodnia)
+- w tym 79 659 osób - 5.60% mieszkańców otrzymało 2 dawki (+5,7 tys. od zeszłego tygodnia)
 
-- 263 410 osób - 18.51% mieszkańców (+25,6 tys. od zeszłego tygodnia)
-- w tym 73 974 osób - 5.20% mieszkańców otrzymało 2 dawki (+4,2 tys. od zeszłego tygodnia)
+W Olsztynie zaszczepiono *
+- 62 301 osób (+ 7,5 tys. od zeszłego tygodnia) 
+- w tym 16 579 osób otrzymało 2 dawki (+0,5 tys. od zeszłego tygodnia) 
 
-W Olsztynie*:
--  54 842 osób (+6,1 tys. od zeszłego tygodnia) 
--  w tym 16 089 osób otrzymało 2 dawki (+1,2 tys. od zeszłego tygodnia) 
-</div>
+W Polsce zaszczepiono 
+- 8,5 mln osób (+1,5 mln od zeszłego tygodnia)
+- w tym 2,2 mln (+0,2 mln) otrzymało 2 dawki.
 
 <div class="mt-8">
 <p class="text-xs">* Celowo nie policzyłem procent zaszczepionych mieszkańców miasta, bo dane na tym poziomie są bardziej mylące. Szczepienia realizowane są często poza miejscem zamieszkania. Osoby zaszczepione w Olsztynie nie muszą być mieszkańcami miasta.</p>
