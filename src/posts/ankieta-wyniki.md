@@ -36,7 +36,7 @@ tags:
 
 <img src="../assets/img/content/ankieta-07.png">
 
-Komentarze i odpopwiedzi znajdują się [tutaj](https://olsztynwskrocie.pl/ankieta-odpowiedzi/)  
+Komentarze i odpowiedzi znajdują się [tutaj](https://olsztynwskrocie.pl/ankieta-odpowiedzi/)  
 
 
 #### #8
