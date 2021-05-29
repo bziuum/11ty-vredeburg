@@ -13,16 +13,16 @@ tags:
 <iframe width="620" height="500" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOn8vZ7-_DAWoSwFB5sceZbZJm47jT6oQcjJU6mZRtP-5m99joKrtcIGUteXsQ-aa7HHe-28q374lO/pubchart?oid=150859349&amp;format=interactive"></iframe>
 
 
-### Szczepienia na dzień 7 maja 2021 r.
+### Szczepienia na dzień 28 maja 2021 r.
 
 <div>
 Na Warmii i Mazurach zaszczepiono
-- 436 tys. osób - 30.67% mieszkańców (+34,4 tys. od zeszłego tygodnia)
-- w tym 117 tys. osób - 8.25% mieszkańców otrzymało 2 dawki (+14,8 tys. od zeszłego tygodnia)
+- 649,5 tys. osób - 45.02% mieszkańców (+48 tys. od zeszłego tygodnia)
+- w tym 197,6 tys. osób - 13.89% mieszkańców otrzymało 2 dawki (+26 tys. od zeszłego tygodnia)
 
 W Olsztynie zaszczepiono *
-- 91 tys. osób (+ 10,5 tys. od zeszłego tygodnia) 
-- w tym 22,3 tys. osób otrzymało 2 dawki (+1,9 tys. od zeszłego tygodnia) 
+- 125,9 tys. osób (+ 8,6 tys. od zeszłego tygodnia) 
+- w tym 39,4 tys. osób otrzymało 2 dawki (+4,8 tys. od zeszłego tygodnia) 
 
 <div class="mt-8">
 <p class="text-xs">* Celowo nie policzyłem procent zaszczepionych mieszkańców miasta, bo dane na tym poziomie są bardziej mylące. Szczepienia realizowane są często poza miejscem zamieszkania. Osoby zaszczepione w Olsztynie nie muszą być mieszkańcami miasta.</p>
