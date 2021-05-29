@@ -1,7 +1,7 @@
 ---
 title: "Sprzedaż miejskich działek - porównanie"
 date: 2021-03-26T09:30
-description: "Dane dotyczące przypadków, zgonów i szczepień Covid-19 w Olsztynie. Aktualizowane raz w tygodniu. "
+description: "Zestawienie wybrane działek miejskich sprzedanych w 2021 roku "
 thumb: miejskie-nieruchomosci.jpg
 tags: 
     - Miejskie działki
@@ -32,7 +32,7 @@ tags:
       <td>mieszkaniowa</td>
       <td>0,45 mln PLN</td>
     </tr>
-    <tr>
+    <tr class="bg-gray-200">
       <td><span class="pl-2">ul. Sarnowskiego / ul. Currie-Skłodowskiej</span></td>
       <td>2,75 mln PLN</td>
       <td>2 018 m^2</td>
@@ -40,7 +40,7 @@ tags:
       <td>mieszkaniowo-usługowa</td>
       <td>1,20 mln PLN</td>
     </tr>
-    <tr class="bg-gray-200">
+    <tr>
       <td><span class="pl-2">ul Żurawia (os. Gutkowo)</span></td>
       <td>1,51 mln PLN</td>
       <td>5 069 m^2</td>
@@ -48,7 +48,15 @@ tags:
       <td>usługi turystyczne</td>
       <td>0,65 mln PLN</td>
     </tr>
-        <tr>
+    <tr class="bg-gray-200">
+      <td><span class="pl-2">ul Żurawia (os. Gutkowo)</span></td>
+      <td>1,76 mln PLN</td>
+      <td>6 680 m^2</td>
+      <td>263 PLN</td>
+      <td>usługi turystyczne</td>
+      <td>1,75 mln PLN</td>
+    </tr>
+    <tr>
       <td><span class="pl-2">ul. Głowackiego (basen OSiR, Centrum)</span></td>
       <td>21 mln PLN</td>
       <td>6 979 m^2</td>
@@ -74,8 +82,8 @@ tags:
     </tr>
     <tr class="bg-gray-200 font-bold">
       <td><span class="pl-2">Łącznie:</span></td>
-      <td>26,01 mln PLN</td>
-      <td>32 153 m^2</td>
+      <td>27,77 mln PLN</td>
+      <td>38 833 m^2</td>
       <td></td>
       <td></td>
       <td></td>
@@ -86,7 +94,7 @@ tags:
 
 <div class="mt-20">
 <p class="text-xs">Credits&Info:<br/>  
-- Ostatnia aktualizacja:10.04.2021 r.<br/>
+- Ostatnia aktualizacja:30.04.2021 r.<br/>
 - Przygotowania: Paweł Harajda dla <a href="olsztynwskrocie.pl">Olsztyn. W skrócie.</a><br/>
 - Dane: <a href="umolsztyn.bip.gov.pl/" target="_blank">Biuletyn Informacji Publicznej Miasta Olsztyn</a>
 </p>
