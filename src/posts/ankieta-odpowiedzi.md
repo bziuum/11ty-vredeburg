@@ -1,6 +1,6 @@
 ---
 title: "Ankieta - odpowiedzi na komentarze"
-description: "Odopowiedzi na komentarze pozostawione w ankiecie ewaluacyjnej prasówki"
+description: "Odpowiedzi na komentarze pozostawione w ankiecie ewaluacyjnej prasówki"
 date: 2021-05-08T13:01
 tags: 
     - Ankieta
