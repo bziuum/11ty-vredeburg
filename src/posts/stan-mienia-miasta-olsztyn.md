@@ -1,7 +1,7 @@
 ---
 title: "Stan mienia Miasta Olsztyn 2008-2020"
 description: "Kilka wniosków na podstawie przeglądania corocznych raportów dot. stanu mienia komunalnego miasta Olsztyna z lat 2008-2020"
-date: 2021-05-29T10:028
+date: 2021-05-29T10:28
 tags: 
     - Stan mienia
     - Analizy własne
