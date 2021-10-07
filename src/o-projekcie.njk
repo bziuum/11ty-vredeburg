@@ -1,0 +1,83 @@
+---
+layout: default
+title: About Me
+---
+
+<div class="text-left min-w-xl flex flex-row flex-wrap items-center text-lg justify-center">
+    <div class="leading-10">
+    <p class="font-bold">Olsztyn. W skrócie.</p>
+    <p>Cotygodniowa prasówka z najważniejszymi miejskimi wiadomościami.</p>
+    <p>Aktualności, Bieżące inwestycje, Wydarzenia, Sport i Covid bez straszenia. </p>
+    <p>Jeden mail. Raz w tygodniu. Krótko i konkretnie.</p>
+    <ul class="list-disc list-inside">
+        <li>Bez reklam, spamu i lania wody</li>
+        <li>Bez zmuszania do klikania w linki</li>
+        <li>Bez napadów, kradzieży i wypadków</li>
+        <li>Bez informacji z regionu, kraju i świata</li>
+    </ul>
+    <p>Poprzednie edycje można przeczytać klikając <a class="underline" href="https://us1.campaign-archive.com/home/?u=bc9a24be147b92d0448d4115b&id=b404862d81" target="_blank">tutaj</a>.</p>
+    </div>
+</div>
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<br/>
+<div id="mc_embed_signup">
+<form action="https://olsztynwskrocie.us1.list-manage.com/subscribe/post?u=bc9a24be147b92d0448d4115b&amp;id=b404862d81" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Chcesz otrzymywać prasówkę? Wpisz swój e-mail poniżej </label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bc9a24be147b92d0448d4115b_b404862d81" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Zapisz się!" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+<div class="mt-2 text-xs text-center">
+    Formularz powyżej nie wyświetlił się lub zwraca błąd? Spróbuje proszę zapisać się <a href="http://eepurl.com/hymE2r" target="_blank" class="underline">tutaj</a>.
+</div>
+
+  
+
+<div class="flex flex-row flex-wrap items-center text-lg justify-center p-10">
+    <div class="text-center max-w-1/4">
+       {% if author.avatar %}
+            <img class="w-32 h-32 md:w-40 md:h-40 rounded-full" src="{{ author.avatar | url }}" width="128" height="128" alt="Author avatar">
+        {% endif %}
+    </div>
+
+    <div class="text-left max-w-1/4 p-10">
+        <h4>Przygotowuje:</h4>
+        <h3 class="text-2xl font-medium text-gray-800 leading-relaxed mt-1 mb-1">
+            {{ author.name }}
+        </h3>
+
+        {% if author.email %}
+        <div class="text-gray-600">
+            <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+        </div>
+
+            {% if author.phone %}
+            <div class="text-gray-600">
+                <a href="tel:{{ author.phone }}">{{ author.phone }}</a>
+            </div>
+            {% endif %}
+        {% endif %}
+
+    </div>
+</div>
+
+<p class="flex flex-row flex-wrap items-center text-lg justify-center font-base">Strona na Facebooku:</p>
+<div class="flex flex-row flex-wrap items-center justify-center">
+    <div>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Folsztynwskrocie&tabs&width=340&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+    </div>
+</div>
